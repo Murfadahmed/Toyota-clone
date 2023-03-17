@@ -80,7 +80,7 @@ body{
     /*/
     /* ************ first image car  */
     .imagecar01{
-    background-image: url('../Toyota\ img/preius.jpg');
+    background-image: url(./Toyota\ img/preius.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@ font-family: 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
 
 /* //////////********after sliding bar images */
 .imagecar02{
-    background-image: url('../Toyota\ img/fivemans.jpg');
+    background-image: url(./Toyota\ img/fivemans.jpg);
     background-position: center center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -180,7 +180,7 @@ font-family: 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
 
 /* //////////********after sliding bar image Two */
 .imagecar03{
-    background-image: url('../Toyota\ img/threemans.jpg');
+    background-image: url(./Toyota\ img/threemans.jpg);
     background-position: center center;
     
     background-size: contain;
@@ -246,7 +246,7 @@ font-family: 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
 
 }
 .secondpic{
-    background-image: url('../Toyota\ img/beyondzero.jpg')  ;
+    background-image: url(./Toyota\ img/beyondzero.jpg)  ;
     background-position: center center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -256,7 +256,7 @@ font-family: 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
 
 }
 .thirdpic{
-    background-image: url('../Toyota\ img/oneman.jpg')  ;
+    background-image: url(./Toyota\ img/oneman.jpg)  ;
     background-position: center center;
     background-size: contain;
     background-repeat: no-repeat;
